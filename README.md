@@ -1,5 +1,7 @@
 ### Hello there! 👋
 
+I'm Diego, a Financial Analyst and Data Scientist from Brazil.
+
 - 🔭 I’m currently working as a Collection and Credit Risk Management
 - 🌱 I’m learning about Python, R, SQL and Machine Learning models
 - 👯 I’m looking to collaborate on Collection and Credit Risk
