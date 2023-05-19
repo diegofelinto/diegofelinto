@@ -1,7 +1,11 @@
 ### Hello there! 👋
 
-I'm Diego, a Financial Analyst from Brazil working with Collection and Credit Risk Management.
-
-I'm currently studying Data Scientist & Analytics at USP, learning about Python, R, SQL and Machine Learning models.
+- 🔭 I’m currently working as a Collection and Credit Risk Management
+- 🌱 I’m learning about Python, R, SQL and Machine Learning models
+- 👯 I’m looking to collaborate on Collection and Credit Risk
+- 🤔 I’m looking for help with Data Science & Analytics
+- 💬 Ask me about: Finance and Cooperativism
+- 📫 How to reach me: diegofelinto@yahoo.com.br
+- ⚡ Fun fact: I'm a field hockey player
 
 ![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=diegofelinto&show_icons=true&theme=radical)
