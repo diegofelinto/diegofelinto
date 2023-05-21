@@ -10,4 +10,8 @@ I'm Diego, a Financial Analyst and Data Scientist from Brazil.
 - 📫 How to reach me: diegofelinto@yahoo.com.br
 - ⚡ Fun fact: I'm a field hockey player
 
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+
+
+
 ![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=diegofelinto&show_icons=true&theme=radical)
