@@ -15,8 +15,6 @@ I'm Diego, a Financial Analyst and Data Scientist from Brazil.
 
 ![Diego GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=diegofelinto&theme=blue-green)
 
-![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=diegofelinto&theme=blue-green)
-
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{diegofelinto}/count.svg" /></p>
