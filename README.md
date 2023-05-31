@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-I'm Diego, a Sr. Financial Analyst working at Credit Cooperative.
+I'm Diego, a Sr. Financial Analyst working at a Credit Union.
 
 - 🔭 I’m currently working as a Collection and Credit Risk Management
 - 🌱 I’m learning about Python, R, SQL and Machine Learning models
